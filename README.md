@@ -20,14 +20,14 @@
 
 
 
-        // if (nome === 'Adão') {
-        //     alert('Olá Adão, é um prazer te ver!');
-        // } else if (nome === 'Alan') {
-        //     alert('Olá Alan, é um prazer te ver!');
-        // } else if (nome === 'Bella') {
-        //     alert('Olá Bella, é um prazer te ver!');
-        // } else if (nome === 'Bianca') {
-        //     alert('Olá Bianca, é um prazer te ver!');
+        // if (nome === 'chris diima') {
+        //     alert('Olá chris diima, é um prazer te ver!');
+        // } else if (nome === 'Junior') {
+        //     alert('Olá Junior, é um prazer te ver!');
+        // } else if (nome === 'Junior') {
+        //     alert('Olá Junior, é um prazer te ver!');
+        // } else if (nome === 'Enzo') {
+        //     alert('Olá Enzo, é um prazer te ver!');
         // } else if (nome === 'Chris') {
         //     alert('Olá Chris, é um prazer te ver !');
         // }
